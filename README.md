@@ -261,3 +261,9 @@ saiganeshganoju@gmail.com
 B.Tech CSE (AI & ML)
 
 AI Automation Executive Technical Assessment Submission
+
+Also Visit: https://github.com/saiganesh0084/AI-Powered-Email-Automation-Agent-using-n8n
+
+<img width="850" height="665" alt="image" src="https://github.com/user-attachments/assets/0f00a4fa-5c76-42fd-b050-801c1bc4bb30" />
+
+<img width="800" height="507" alt="image" src="https://github.com/user-attachments/assets/0affd6d0-2fa2-466e-9616-867ee125ea66" />
