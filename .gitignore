@@ -1,0 +1,31 @@
+# Environment Variables
+.env
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Node Modules
+node_modules/
+
+# Next.js
+.next/
+out/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Google OAuth
+backend/credentials.json
+
+# Environment files
+backend/.env
+.env
